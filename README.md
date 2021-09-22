@@ -32,3 +32,5 @@ int main() ///圓括號在大寫9,0
     printf( "Hello World\n" );
 }/// 有個f  雙引號在大寫的 Enter旁
 ```C
+
+# 第02週
